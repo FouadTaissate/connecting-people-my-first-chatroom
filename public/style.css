@@ -74,7 +74,6 @@ section {
   /* background: rgb(239, 238, 238); */
   background: white;
   backdrop-filter: blur(1rem);
-  opacity: 0.97;
   border-radius: 2rem;
   display: flex;
   flex-direction: column;
@@ -155,7 +154,6 @@ section form > button {
   border-top-right-radius: 2rem;
   border-bottom-right-radius: 2rem;
   border: 0;
-  opacity: 1;
   outline: none;
   transition: 0.2s;
 }
